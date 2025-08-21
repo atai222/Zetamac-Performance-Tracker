@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Zetamac Performance Tracker",
   "version": "1.0.0",
-  "description": "Tracks question times on Zetamac to identify areas for improvement.",
+  "description": "Track your arithmetic performance on Zetamac.com with detailed statistics, personal records, and achievement badges.",
   "action": {
     "default_popup": "popup.html"
   },
@@ -19,10 +19,6 @@
     {
       "matches": ["https://arithmetic.zetamac.com/game*"],
       "js": ["scripts/content.js"]
-    },
-    {
-      "matches": ["https://arithmetic.zetamac.com/"],
-      "js": ["scripts/settings_tweaker.js"]
     }
   ]
 }
