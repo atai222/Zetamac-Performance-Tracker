@@ -1,4 +1,3 @@
-// ===== scripts/settings_tweaker.js (ENHANCED FOR SPECIFIC PATTERNS) =====
 chrome.storage.local.get(['trainingGoal', 'trainingType'], function(data) {
   const goal = data.trainingGoal;
   const trainingType = data.trainingType;

@@ -1,4 +1,3 @@
-// ===== scripts/popup.js (COMPLETE ENHANCED VERSION) =====
 document.addEventListener('DOMContentLoaded', function() {
   // Load all data
   chrome.storage.local.get({ 
