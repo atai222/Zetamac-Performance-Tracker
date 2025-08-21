@@ -43,7 +43,7 @@ Unlock badges as you improve:
 - **Century** - Score 100+ in one session
 - And more!
 
-## 🚀 Installation
+## Installation
 
 ### From Chrome Web Store
 
@@ -153,7 +153,7 @@ cd zetamac-tracker
 
 
 
-## 📧 Contact
+## Contact
 
 - GitHub: [@atai222](https://github.com/atai222)
 - Project Link: [https://github.com/atai222/zetamac-tracker](https://github.com/atai222/zetamac-tracker)
