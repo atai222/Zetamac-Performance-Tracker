@@ -1,4 +1,4 @@
-#Zetamac Performance Tracker
+# Zetamac Performance Tracker
 
 A Chrome extension that provides comprehensive performance analytics for [Zetamac.com](https://arithmetic.zetamac.com), helping users improve their mental math speed through detailed statistics, visual analysis, and gamification.
 
@@ -12,7 +12,7 @@ A Chrome extension that provides comprehensive performance analytics for [Zetama
 Zetamac Performance Tracker transforms your mental math practice into a data-driven improvement journey. By analyzing every problem you solve, it identifies your weaknesses and tracks your progress over time.
 
 
-##Features
+## Features
 
 ### **Performance Analytics**
 - **Operation Breakdown** - Track average solving time for addition, subtraction, multiplication, and division
