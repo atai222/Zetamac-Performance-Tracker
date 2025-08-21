@@ -7,7 +7,7 @@ A Chrome extension that provides comprehensive performance analytics for [Zetama
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Version](https://img.shields.io/badge/Version-1.0.0-blue)
 
-##Overview
+## Overview
 
 Zetamac Performance Tracker transforms your mental math practice into a data-driven improvement journey. By analyzing every problem you solve, it identifies your weaknesses and tracks your progress over time.
 
