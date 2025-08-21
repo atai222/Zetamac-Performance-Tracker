@@ -117,7 +117,7 @@ zetamac-tracker/
 5. **Visualization**: Displays statistics through charts and grids
 
 
-## 🗺Roadmap
+## Roadmap
 
 ### Version 1.1 (Planned)
 - [ ] Export statistics to CSV
