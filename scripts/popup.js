@@ -1,3 +1,5 @@
+// scripts/popup.js - Statistics and badges for Math Practice Extension
+
 document.addEventListener('DOMContentLoaded', function() {
   // Load all data
   chrome.storage.local.get({ 
